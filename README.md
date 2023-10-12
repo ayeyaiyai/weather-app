@@ -1,2 +1,2 @@
 # weather-app
-A weather app creating using the OpenWeather API
+A weather app created using the OpenWeather API
